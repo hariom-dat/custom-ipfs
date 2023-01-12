@@ -14,7 +14,7 @@
 ## Installation
 
 ```
-$ go get github.com/whyrusleeping/ipfs-key
+$ go get github.com/hariom-dat/ipfs-key
 ```
 
 ## Usage
